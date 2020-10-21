@@ -1,3 +1,8 @@
+// Assign variables to dependencies
+const fs = require("fs")
+
+
+
 // array of questions for user
 const questions = [
 
