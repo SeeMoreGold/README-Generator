@@ -4,9 +4,12 @@
 ## Description
 
 A command-line application that generates a README.md file.
-![GitHub Repo](https://github.com/SeeMoreGold/README-Generator)
-![GitHub Deployed Site](https://seemoregold.github.io/README-Generator/)
-![Video Link](https://youtu.be/wdpdKnIb04w)
+
+* [GitHub Repo](https://github.com/SeeMoreGold/README-Generator)
+
+* [GitHub Deployed Site](https://seemoregold.github.io/README-Generator/)
+
+* [Video Link](https://youtu.be/wdpdKnIb04w)
 
 
 
