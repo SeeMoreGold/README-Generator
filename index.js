@@ -1,10 +1,8 @@
 // Assign variables to dependencies
 const fs = require("fs");
-const inquirer = require("inquirer");
 const path = require("path");
+const inquirer = require("inquirer");
 const generateMarkdown = require("./generateMarkdown");
-
-
 
 // array of questions for user
 const questions = [
@@ -46,7 +44,7 @@ const questions = [
     },
     {
         type: "input",
-        name: "contributing",
+        name: "contribute",
         message: "How can the user contribute to the repo?",
     },
     {
